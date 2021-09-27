@@ -1,0 +1,57 @@
+/* Start  Login  Design */
+.form-form .form-form-wrap h1 .brand-name
+{
+    color: #fe2b50;
+}
+
+    .gold {
+        border: 0;
+        border-bottom: 1px solid #dcb24a;
+        border-radius: 0;
+    }
+
+    .gold:focus {
+    background: #fff6e4;
+    box-shadow: none;
+    transition: .3s;
+    }
+
+    .form-control:focus {
+        box-shadow: none;
+    }
+
+    .check {
+        background: #f6e9db;
+        color: #3e3e3e;
+    }
+
+    .image-swatches-nav li a img {
+        height: 50px;
+        object-fit: contain;
+    }
+
+    li.tab__item.nav-item {
+        margin-bottom: 10px;
+    }
+
+    .card {
+        border-radius: 0;
+    }
+
+    .card-header {
+        padding: .1rem .75rem;
+        background-color: rgb(255 255 255 / 3%);
+        border-bottom: 1px solid rgba(0,0,0,.125);
+    }
+
+    /* .tab-text {
+        position: absolute;
+        top: 73px;
+        left: 140px;
+    } */
+
+    .modal-backdrop {
+        background-color: transparent;
+        z-index: 0;
+    }
+
